@@ -1,8 +1,8 @@
-//
+//
 //  AppDelegate.swift
 //  NoteBookProject
 //
-//  Created by Ebubekir Aykut on 19.09.2021.
+//  Created by Furkan Aykut on 19.09.2021.
 //
 
 import UIKit
